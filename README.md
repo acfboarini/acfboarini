@@ -1,8 +1,8 @@
 ## Bem vindo, eu sou o Augusto Coelho 👋
 
-- 🔭 Hoje trabalho FullStack
-- 🌱 Estudando Flutter, Python e TypeScript
-- 😄 Pronomes: ele/dele
+- Hoje trabalho FullStack
+- Trabalho com Flutter e TypeScript
+- Estudando Python, Regressões, Aprendizado de Máquina e Automações
 
 <br>
 
